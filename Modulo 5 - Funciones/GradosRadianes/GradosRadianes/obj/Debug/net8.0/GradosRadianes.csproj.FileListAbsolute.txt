@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\bin\Debug\net8.0\GradosRadianes.exe
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\bin\Debug\net8.0\GradosRadianes.deps.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\bin\Debug\net8.0\GradosRadianes.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\bin\Debug\net8.0\GradosRadianes.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\bin\Debug\net8.0\GradosRadianes.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.sourcelink.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\refint\GradosRadianes.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\GradosRadianes.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\GradosRadianes\GradosRadianes\obj\Debug\net8.0\ref\GradosRadianes.dll

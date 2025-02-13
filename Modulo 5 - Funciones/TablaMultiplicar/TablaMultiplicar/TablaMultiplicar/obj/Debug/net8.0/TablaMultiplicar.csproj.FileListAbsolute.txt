@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.sourcelink.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\bin\Debug\net8.0\TablaMultiplicar.exe
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\bin\Debug\net8.0\TablaMultiplicar.deps.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\bin\Debug\net8.0\TablaMultiplicar.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\bin\Debug\net8.0\TablaMultiplicar.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\bin\Debug\net8.0\TablaMultiplicar.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\refint\TablaMultiplicar.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\TablaMultiplicar.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\CSharp 10\Modulo 5 - Funciones\TablaMultiplicar\TablaMultiplicar\TablaMultiplicar\obj\Debug\net8.0\ref\TablaMultiplicar.dll
