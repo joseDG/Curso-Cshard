@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Matriz_Escalonada_Mejorada/1.0.0": {
+        "runtime": {
+          "Matriz_Escalonada_Mejorada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matriz_Escalonada_Mejorada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
