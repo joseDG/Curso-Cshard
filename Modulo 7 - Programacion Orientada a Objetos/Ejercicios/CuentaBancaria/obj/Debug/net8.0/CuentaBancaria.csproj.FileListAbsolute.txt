@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.exe
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.deps.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.sourcelink.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\refint\CuentaBancaria.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\CuentaBancaria\obj\Debug\net8.0\ref\CuentaBancaria.dll

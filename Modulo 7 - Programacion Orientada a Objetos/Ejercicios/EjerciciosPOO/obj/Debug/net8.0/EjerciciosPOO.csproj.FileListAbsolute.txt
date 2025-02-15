@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\bin\Debug\net8.0\EjerciciosPOO.exe
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\bin\Debug\net8.0\EjerciciosPOO.deps.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\bin\Debug\net8.0\EjerciciosPOO.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\bin\Debug\net8.0\EjerciciosPOO.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\bin\Debug\net8.0\EjerciciosPOO.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.sourcelink.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\refint\EjerciciosPOO.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\EjerciciosPOO.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 7 - Programacion Orientada a Objetos\Ejercicios\EjerciciosPOO\obj\Debug\net8.0\ref\EjerciciosPOO.dll
