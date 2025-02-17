@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\bin\Debug\net8.0\Conversion.exe
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\bin\Debug\net8.0\Conversion.deps.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\bin\Debug\net8.0\Conversion.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\bin\Debug\net8.0\Conversion.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\bin\Debug\net8.0\Conversion.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.sourcelink.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\refint\Conversion.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\Conversion.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Conversion\obj\Debug\net8.0\ref\Conversion.dll

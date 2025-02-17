@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\bin\Debug\net8.0\Genericos.exe
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\bin\Debug\net8.0\Genericos.deps.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\bin\Debug\net8.0\Genericos.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\bin\Debug\net8.0\Genericos.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\bin\Debug\net8.0\Genericos.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.sourcelink.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\refint\Genericos.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\Genericos.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 9 - Genericos y Colecciones\ColeccionesGenericas\Genericos\obj\Debug\net8.0\ref\Genericos.dll
